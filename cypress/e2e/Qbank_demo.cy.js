@@ -1,9 +1,9 @@
 /// <reference types="Cypress" />
 const testData = require("../../TestData/json_testData1.json")
 
-describe('template spec', () => {
+describe('Qbank Test', () => {
 
-  it('passes', () => {
+  it('Qbank transaction Test', () => {
     //Handling Uncaught Exception
     Cypress.on('uncaught:exception', (err, runnable) => {
       return false

@@ -1,2 +1,3 @@
 node_modules/
 TestData/json_testData1.json
+cypress/reports
