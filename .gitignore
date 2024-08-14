@@ -1,2 +1,2 @@
 node_modules/
-cypress/fixtures/json_testData1.json
+TestData/json_testData1.json

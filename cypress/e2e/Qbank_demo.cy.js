@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-const testData = require("../fixtures/json_testData1.json")
+const testData = require("../../TestData/json_testData1.json")
 
 describe('template spec', () => {
 
